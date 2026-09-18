@@ -50,7 +50,7 @@ performance-analysis/
 ├── README.md
 └── LICENSE
 
-```markdown
+```
 ## AI Assistance
 
 AI-assisted tools were used during the development and refinement of this analysis script, including for coding support, debugging, and documentation. The analysis decisions, interpretation of results, and final review of the code were conducted by the author.
